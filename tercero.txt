@@ -1,3 +1,1 @@
-archivo creado con alguna nueva funcionalidad
-
-adicionamos un código más de la nueva funcionalidad
+agregando una nueva funcionalidad
